@@ -36,7 +36,8 @@
 
 Τέλος, εμφανίζει ολόκληρο το Dataset, σε `Samples X Features`.
 
-![dataframe_info_no_labels](https://github.com/inf2021013/test/assets/166173503/5ef0439a-2500-41bc-b8ed-2e1e99f90a5d)
+![dataframe_no_labels](https://github.com/inf2021013/test/assets/166173503/2b1a60cd-356c-4382-9659-c9b63ba5fd4b)
+
 
 ### Visualization tab:
 
